@@ -35,10 +35,10 @@ cache:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  small: /images/cropped-neko-4.jpg
+  medium: /images/cropped-neko-3.jpg
+  apple_touch_icon: /images/cropped-neko-3.jpg
+  safari_pinned_tab: /images/cropped-neko-3.jpg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
@@ -636,9 +636,9 @@ changyan:
 # More info available at https://valine.js.org
 valine:
   enable: true # When enable is set to be true, leancloud_visitors is recommended to be closed for the re-initialization problem within different leancloud adk version.
-  appid: CgA5fyPqgrIw64PRp6JKtff8-9Nh9j0Va # your leancloud application appid
-  appkey: Lq0iqngkiLv1bSu6Kw78vwFm # your leancloud application appkey
-  notify: false # mail notifier, See: https://github.com/xCss/Valine/wiki
+  appid: 2SNc6DmMpiLkqPzcDaIDsogo-MdYXbMMI # your leancloud application appid
+  appkey: g2apE9KP7QmetbgW7en4r91h # your leancloud application appkey
+  notify: true # mail notifier, See: https://github.com/xCss/Valine/wiki
   verify: true # Verification code
   placeholder: 支持文本及 M↓ 评论 # comment box placeholder
   avatar: mm # gravatar style
